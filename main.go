@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/RameshND/emojiis/search"
+	"github.com/RamshND/emojiis/search"
 )
 
 func main() {
